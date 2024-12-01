@@ -9,3 +9,4 @@ ambot lang
 ## git checkout <branch name> switch
 ## git pull -b <from branch name>
 ## git branch
+// merging
